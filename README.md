@@ -1,3 +1,3 @@
 # SVM-classification-project
 
-[Download the report](report/SVM_.pdf)
+[Download the report](report/SVM_project.pdf)
