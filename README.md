@@ -187,7 +187,7 @@ install.packages(c(
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Mateus-Auza/student-placement-prediction-svm.git
 ```
 
 2. Open `Code/SVM_code.R` in RStudio.
@@ -202,6 +202,7 @@ git clone https://github.com/your-username/your-repository.git
 
 **Mateus Auza Cruz**
 
+Completed: May 2026
 ---
 
 ## License
